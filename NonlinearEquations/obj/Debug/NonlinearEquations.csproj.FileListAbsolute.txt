@@ -1,0 +1,11 @@
+D:\GitHub\NonlinearEquations\Lab3\bin\Debug\Lab3.exe.config
+D:\GitHub\NonlinearEquations\Lab3\bin\Debug\Lab3.exe
+D:\GitHub\NonlinearEquations\Lab3\bin\Debug\Lab3.pdb
+D:\GitHub\NonlinearEquations\Lab3\bin\Debug\System.ValueTuple.dll
+D:\GitHub\NonlinearEquations\Lab3\bin\Debug\System.ValueTuple.xml
+D:\GitHub\NonlinearEquations\Lab3\obj\Debug\NonlinearEquations.MainForm.resources
+D:\GitHub\NonlinearEquations\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\GitHub\NonlinearEquations\Lab3\obj\Debug\NonlinearEquations.csproj.GenerateResource.Cache
+D:\GitHub\NonlinearEquations\Lab3\obj\Debug\NonlinearEquations.csproj.CoreCompileInputs.cache
+D:\GitHub\NonlinearEquations\Lab3\obj\Debug\Lab3.exe
+D:\GitHub\NonlinearEquations\Lab3\obj\Debug\Lab3.pdb
