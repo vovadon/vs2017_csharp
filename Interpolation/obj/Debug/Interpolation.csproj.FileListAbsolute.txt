@@ -1,0 +1,39 @@
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\bin\Debug\Interpolation.exe.config
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\bin\Debug\Interpolation.exe
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\bin\Debug\Interpolation.pdb
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\obj\Debug\Interpolation.MainForm.resources
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\obj\Debug\Interpolation.exe
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\obj\Debug\Interpolation.pdb
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\bin\Debug\LinearEquations.exe
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\bin\Debug\EPPlus.dll
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\bin\Debug\LinearEquations.pdb
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\bin\Debug\LinearEquations.exe.config
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Новая папка\Lab4\Interpolation\bin\Debug\EPPlus.xml
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\bin\Debug\Interpolation.exe.config
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\bin\Debug\Interpolation.exe
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\bin\Debug\Interpolation.pdb
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\bin\Debug\EPPlus.dll
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\bin\Debug\LinearEquations.pdb
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\bin\Debug\LinearEquations.exe.config
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\bin\Debug\EPPlus.xml
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\obj\Debug\Interpolation.MainForm.resources
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\obj\Debug\Interpolation.exe
+D:\Универ\Второй курс\Алгоритмы и методы вычислений\Программы\Lab4\Interpolation\obj\Debug\Interpolation.pdb
+D:\GitHub\Lab4\Interpolation\bin\Debug\Interpolation.exe.config
+D:\GitHub\Lab4\Interpolation\bin\Debug\Interpolation.exe
+D:\GitHub\Lab4\Interpolation\bin\Debug\Interpolation.pdb
+D:\GitHub\Lab4\Interpolation\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+D:\GitHub\Lab4\Interpolation\obj\Debug\Interpolation.MainForm.resources
+D:\GitHub\Lab4\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+D:\GitHub\Lab4\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+D:\GitHub\Lab4\Interpolation\obj\Debug\Interpolation.csproj.CoreCompileInputs.cache
+D:\GitHub\Lab4\Interpolation\obj\Debug\Interpolation.exe
+D:\GitHub\Lab4\Interpolation\obj\Debug\Interpolation.pdb
