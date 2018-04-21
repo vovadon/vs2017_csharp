@@ -1,0 +1,9 @@
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\bin\Debug\RsaEncryptor.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\bin\Debug\RsaEncryptor.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\bin\Debug\RsaEncryptor.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\obj\Debug\RsaEncryptor.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\obj\Debug\RsaEncryptor.MainForm.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\obj\Debug\RsaEncryptor.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\obj\Debug\RsaEncryptor.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\obj\Debug\RsaEncryptor.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\CSharp\RsaEncryptor\RsaEncryptor\obj\Debug\RsaEncryptor.pdb
